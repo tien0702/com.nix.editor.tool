@@ -1,0 +1,14 @@
+{
+  "name": "com.nix.editor.tool",
+  "version": "1.0.0",
+  "displayName": "NIX Editor Tool",
+  "description": "Editor Tool",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "dependencies": {},
+  "keywords": [],
+  "author": {
+    "name": "NIX",
+    "email": "tientv.0702@gmail.com"
+  }
+}
